@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/agnnn/npm-func-test#readme",
   "dependencies": {
+    "mocha": "^5.0.4",
     "request": "^2.83.0"
   }
 }
